@@ -10,8 +10,8 @@
 
 > **"Code is like humor. When you have to explain it, it’s bad."** — Cory House
 
-* 💻 **Currently working on:** [Your main project/repo name]
-* 📚 **Learning & Exploring:** [e.g., AI/LLM Orchestration, System Architecture]
+* 💻 **Currently working on:** Event management system.
+* 📚 **Learning & Exploring:** [AI/LLM Orchestration, System Architecture, RAG Systems, AI agents and Cloud infrastructure]
 * 🎯 **Goals:** Contributing to freelancing projects and software development.
 * ⚡ **Fun Fact:** I turn caffeine ☕ into clean, working code.
 
@@ -31,7 +31,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ### 🧰 Tools & DevOps
@@ -58,5 +57,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:code.with.nishanth03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
 </p>
